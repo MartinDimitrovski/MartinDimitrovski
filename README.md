@@ -1,5 +1,5 @@
 ## Hi there 👋
-# I'm Martin Dimitovski
+# I'm Martin Dimitrovski
 
 Software Engineering Student at Brainster Next College.
 
