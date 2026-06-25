@@ -1,35 +1,15 @@
 ## Hi there 👋
-# Hi there, I'm Martin
+# I'm Martin Dimitovski
 
-Software Engineering Student at Brainster Next College
-
-Passionate about software development, web technologies, and problem-solving.
+Software Engineering Student at Brainster Next College.
 
 ## About Me
 
-* Currently learning and improving my software engineering skills
-* Working on academic and personal development projects
-* Interested in Web Development, UI/UX Design, and Software Architecture
-* Open to collaboration and learning opportunities
-* Dedicated to continuous learning and professional growth
+Passionate about software development, problem-solving, and continuous learning. Currently building projects and expanding my skills in web development and modern technologies.
 
-## Technologies & Tools
+## Technologies
 
-* HTML, CSS, JavaScript
-* PHP
-* MySQL
-* Git & GitHub
-* Figma
-* Visual Studio Code
-
-## Goals
-
-My goal is to become a skilled software engineer who creates efficient, user-friendly, and impactful digital solutions.
-
-## Connect With Me
-
-* LinkedIn: [Your LinkedIn URL]
-* Email: [Your Email]
+HTML • CSS • Tailwind • JavaScript • PHP • MySQL • C++ • Laravel • Git
 
 ---
 
